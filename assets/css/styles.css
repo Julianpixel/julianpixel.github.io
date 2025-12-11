@@ -620,6 +620,10 @@ img {
   justify-self: center;
 }
 
+.justificacion {
+  text-align: justify;
+}
+
 /*=============== FOOTER ===============*/
 .footer {
   background-color: var(--black-color);
